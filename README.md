@@ -21,3 +21,5 @@ I Explored about the various methods if data cleaning and combined my todays lea
 <br>
 And for my todays practice task it was to handle multiple datasets at same time. I already have worked on such problems whlie learning SQL but it was long time ago so it was refreshing handling such porblems again. Today I had to inner join and left join the datasets and then to filtering and then averaging using .groupby(). The key point in todays PS was to complete the task by using a chained workflow, so I first wrote the sode as usual and then built a chained workflow as required.
 
+## **Day 4** <br>
+Today I started some EDA on my project which is for IITM MLP Project which is heavy equipment selling price prediction I am working on it in kaggle. Also I did the task for day 4 it was very basic problem to make functions with using concepts of loops, list and tuples.
