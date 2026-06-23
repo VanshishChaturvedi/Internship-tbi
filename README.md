@@ -32,4 +32,5 @@ Here is:
 * The system is designed to handle employees feedback using mobile app and use AI to display the results on admin dashboard
 * The system needs an organizational heirarchy, feedback collection, AI preprocessing & analytics and notifications
 * Platform’s proper operational flow of data is provided for secure processes and data storage
-*I have added the SQL dump file in the repo for refference.*
+<br> <br>
+> *I have added the SQL dump file in the repo for refference.*
