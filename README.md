@@ -34,3 +34,6 @@ Here is:
 * Platform’s proper operational flow of data is provided for secure processes and data storage
 <br> <br>
 > *I have added the SQL dump file in the repo for refference.*
+
+## **Day 6** <br>
+Today I continoued on last problem statement and build a simple signup page for employees using flask and connected it to the db makeing it an end to end product without css :) i have attached the python code and demo video link in the repo.
