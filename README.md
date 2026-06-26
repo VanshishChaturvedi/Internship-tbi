@@ -36,7 +36,10 @@ Here is:
 > *I have added the SQL dump file in the repo for refference.*
 
 ## **Day 6** <br>
-Today I continoued on last problem statement and build a simple signup page for employees using flask and connected it to the db makeing it an end to end product without css :) i have attached the python code and demo video link in the repo.
+Today I continoued on last task and build a simple signup page for employees using flask and connected it to the db makeing it an end to end product without css :) i have attached the python code and demo video link in the repo.
 
 ## **Day 7** <br>
-Today I continoued on the last problem and made a login page making my project multipage and also I used JOIN to print infop of other tables when the employee logs in, i have attached the code and the demo video link. After that I was told to make an update section too that when the employee logs in then there will be a button for update details there he can change it as he wants, I have attacheed its video link too. The code attached is the final code.
+Today I continoued on the last task and made a login page making my project multipage and also I used JOIN to print infop of other tables when the employee logs in, i have attached the code and the demo video link. After that I was told to make an update section too that when the employee logs in then there will be a button for update details there he can change it as he wants, I have attacheed its video link too. The code attached is the final code.
+
+## **Day 8** <br>
+Today I continoued on the last task and I build feedback viewing page. So I filled tables like questions, and feedback related tables with some dummy data and then build feedback page in my python app. I have attached the code and the demonstraion video link in the repo.
