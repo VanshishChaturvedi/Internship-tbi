@@ -27,11 +27,11 @@ Today I started some EDA on my project which is for IITM MLP Project which is he
 ## **Day 5** <br>
 Today I worked on databases I was provided a documnet which wanted to make a database of 12 tables with multiple columns which are interconnected and have their specific data types and default values. I also had to make ENUMs which are the custom datatypes for storing the data like status (active/inactive), preffered_language (en,tr). <br>
 Here is: 
-* What i understood from the document was that it is a multi company employee feedback platform
-* It has a proper schema for keeping the records of employees and their feedbacks with complete technical architecture
-* The system is designed to handle employees feedback using mobile app and use AI to display the results on admin dashboard
-* The system needs an organizational heirarchy, feedback collection, AI preprocessing & analytics and notifications
-* Platform’s proper operational flow of data is provided for secure processes and data storage
+* What i understood from the document was that it is a multi company employee feedback platform.
+* It has a proper schema for keeping the records of employees and their feedbacks with complete technical architecture.
+* The system is designed to handle employees feedback using mobile app and use AI to display the results on admin dashboard.
+* The system needs an organizational heirarchy, feedback collection, AI preprocessing & analytics and notifications.
+* Platform’s proper operational flow of data is provided for secure processes and data storage.
 <br> <br>
 > *I have added the SQL dump file in the repo for refference.*
 
