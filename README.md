@@ -45,4 +45,7 @@ Today I continoued on the last task and made a login page making my project mult
 Today I continoued on the last task and I build feedback viewing page. So I filled tables like questions, and feedback related tables with some dummy data and then build feedback page in my python app. I have attached the code and the demonstraion video link in the repo.
 
 ## **Day 9** <br>
-Today I was given a mini task in pandas, it was a simple groupby and aggregation task then I was instructe4d to continue on the last task and today I was said to make CRUD operation of companies and its departments and on which I have completed the companies part and still working on thje departments and will complete it by tommorow.
+Today I was given a mini task in pandas, it was a simple groupby and aggregation task then I was instructe4d to continue on the last task and today I was said to make CRUD operation of companies and its departments and on which I have completed the companies part and still working on the departments and will complete it by tommorow.
+
+## **Day 10** <br>
+Today I completed the last task to  make CRUD for departments and afterwards i was told to make CRUD for questions too so I make that, I had to keep question limit of 3 for every company. I made an extra feature of "All Department" during selection of question for department for convenience ;) I have attached the code and the demo video links to the repo for the same.
