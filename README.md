@@ -1,7 +1,7 @@
 # **Internship-TBI**
 Here i will be adding my learnings during my summer internship of 2026.
 
-## **Day 1** <br>
+## [**Day 1**](Practice_task_01) <br>
 I completed the task which was simple use of comman function and attributes of pandas with some conditional statements on a edtech company dataset problem. as it was first day nothing major was done in learning aspect as it was majorly used in geting the documentation done and getting friently with the enviornment.
 
 ## **Day 2** <br>
