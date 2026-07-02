@@ -49,3 +49,6 @@ Today I was given a mini task in pandas, it was a simple groupby and aggregation
 
 ## **Day 10** <br>
 Today I completed the last task to  make CRUD for departments and afterwards i was told to make CRUD for questions too so I make that, I had to keep question limit of 3 for every company. I made an extra feature of "All Department" during selection of question for department for convenience ;) I have attached the code and the demo video links to the repo for the same.
+
+## **Day 11** <br>
+Today I visited about the basics of api develoopment i learned about the https and its protocal, the different types of requests like GET, POST, PATCH, PUT and DELETE. Also I saw multiple types status codes like 1xx -> Inforamtional, 2xx -> success, 3xx -> redirection, 4xx -> Client error, 5xx -> Server error. Also I looked abut the headers and the body along with JSON and handling it using python serialization and deserialization and at last I saw abou the various api testers and its needs.
