@@ -50,10 +50,14 @@ Today I was given a mini task in pandas, it was a simple groupby and aggregation
 ## **Day 10** [📁](Practice_task_10)<br>
 Today I completed the last task to  make CRUD for departments and afterwards i was told to make CRUD for questions too so I make that, I had to keep question limit of 3 for every company. I made an extra feature of "All Department" during selection of question for department for convenience ;) I have attached the code and the demo video links to the repo for the same.
 
-## **Day 11** [📁](Practice_task_11)<br>
+## **Day 11** 📁<br>
 Today I visited about the basics of api develoopment i learned about the https and its protocal, the different types of requests like GET, POST, PATCH, PUT and DELETE. Also I saw multiple types status codes like 1xx -> Inforamtional, 2xx -> success, 3xx -> redirection, 4xx -> Client error, 5xx -> Server error. Also I looked abut the headers and the body along with JSON and handling it using python serialization and deserialization and at last I saw abou the various api testers and its needs.
 
 ## **Day 12** [📁](Practice_task_12)<br>
 Today I made further more changes in the last task and make some changes in signup section and made it covinient to use by adding a drop down for company and department instead of adding a long uuid and also i added re-entre the passwword for confirmation from user side about the password. Then I added a new section abou the feedback submission for daily basis for the questions of the departmnet you are in that company. Also i fixed the order id og quesions and made that the last question for same order id will get the order id and the other will get the remaining index which is left. I have attached the demo video for it.
-## **Day 13** [📁]([Practice_task_13](https://tds.s-anand.net/2026-02/docs/week-4/vector-databases/))<br>
+
+## **Day 13** 📁<br>
 Today I moved forward and learned about RAG, in it I covered the different vector dbs, different chunking stratagies and late chunking. Further I covered Contextual Retrieval, Hybrid Search, Reranking, Query Augmentation, Semantic Caching, Multimodal Embeddings and GraphRAG with their details. Also I covered the RAGAS Evaluation and its 4 metrics for evaluation.
+
+## **Day 14** [📁](Practice_task_14)<br>
+Today I continues in my project and added an admin portal which has access of editing companies, employees, department and questions in which user management page I added search and sort using names or emails using recent or alphabet order. Also I created the feature of editing your past feedback which only the user can perform CRUD not even the admin. I have attached the demo video link and the code.
