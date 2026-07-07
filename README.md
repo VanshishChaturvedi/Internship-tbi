@@ -61,3 +61,6 @@ Today I moved forward and learned about RAG, in it I covered the different vecto
 
 ## **Day 14** [📁](Practice_task_14)<br>
 Today I continues in my project and added an admin portal which has access of editing companies, employees, department and questions in which user management page I added search and sort using names or emails using recent or alphabet order. Also I created the feature of editing your past feedback which only the user can perform CRUD not even the admin. I have attached the demo video link and the code.
+
+## **Day 15** 📁<br>
+Today I covered the Basics of Agentic AI what is it and its usecases in it i covered tool calling, agentic memory systems, multiagent systems, specialized agents, MCPs, need of async and parllelism and the importance of LXD Sandboxing along with the agent evaluation. Then I studied about the Agentic AI Guardrails and its types, what are its importances at different levels.
