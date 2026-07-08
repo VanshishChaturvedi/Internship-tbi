@@ -33,7 +33,7 @@ Here is:
 * The system needs an organizational heirarchy, feedback collection, AI preprocessing & analytics and notifications.
 * Platform’s proper operational flow of data is provided for secure processes and data storage.
 <br> <br>
-> *I have added the SQL dump file in the repo for refference.*
+I have added the SQL dump file in the repo for refference.
 
 ## **Day 6** [📁](Practice_task_06)<br>
 Today I continoued on last task and build a simple signup page for employees using flask and connected it to the db with fully secure hashing method makeing it an end to end product without css :) i have attached the python code and demo video link in the repo.
@@ -64,3 +64,14 @@ Today I continues in my project and added an admin portal which has access of ed
 
 ## **Day 15** 📁<br>
 Today I covered the Basics of Agentic AI what is it and its usecases in it i covered tool calling, agentic memory systems, multiagent systems, specialized agents, MCPs, need of async and parllelism and the importance of LXD Sandboxing along with the agent evaluation. Then I studied about the Agentic AI Guardrails and its types, what are its importances at different levels.
+
+## **Day 16** [📁](Practice_task_16)<br>
+Today I made Analytics page which had 6 graphs: <br>
+1) Feedback Sentiment Breakdown it is a pie chart of positive neutral and negative feedback sentiments.
+2) Feedback Volume by Department which is a bar chart having number of feedback from each department
+3) Employees per Company which is a pie chart showing the number of employees from very company
+4) Departments per Company it is a bar chart showing the number of departments from each company
+5) Feedback Submissions Over Time it is a time series line chart showing the trend of submissions on each day
+6) Distribution of Answer Lengths it is a histogram of character count of the submissions <br>
+<br>
+I have attached the demo video link and code in the repo.
