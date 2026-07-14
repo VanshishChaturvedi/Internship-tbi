@@ -77,5 +77,7 @@ Today I made Analytics page which had 6 graphs: <br>
 I have attached the demo video link and code in the repo.
 
 ## **Day 17** 📁<br>
-
 Today I covered the multiple use case, features and services of langchain. I covered the multiple components of langchain: models, prompts, chains, memory, indexes and agents. I explored every component in detail with code demonstrations and therefore understanding the implementation of the features covered during studying RAG, except that I covered the model loading and using it, different types of prompts and templates. Also I covered the different ways for keeping memory and then I covered different ways to structure the output of a chat model using typed dict, pydantic or in json.
+
+## **Day 18** 📁<br>
+Today I moved forward on the employee feedback site and made a reports page for admin portal which carries the information of no. of companies, departments, eymployees, questions and feedbacks. The feedback submission can be filtered with the time like last week, last month or custom dates. Also I added export to csv feature in all the tables accross the website like in user management, company management, department management and question management. I have attached the demo link and code for the same.
